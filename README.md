@@ -15,7 +15,7 @@
   <summary><img src="https://flagcdn.com/w20/us.png" width="20"> English</summary>
   <br />
 
-  I am a **Software Engineer** focused on **QA Automation**. With a background from **Inatel**, I apply engineering principles to the testing lifecycle, ensuring high-quality software delivery through **Cypress, Postman, and CI/CD integration**. I have hands-on experience in manual, functional, and regression testing for both **Web and Mobile (iOS)** platforms. 
+  I am a **Software Engineer** focused on **QA Automation**. With a background from **Inatel**, I apply engineering principles to the testing lifecycle, ensuring high-quality software delivery through **Cypress, Postman, k6 and CI/CD integration**. I have hands-on experience in manual, functional, and regression testing for both **Web and Mobile (iOS)** platforms. 
 
   🏅 *Awarded with the Certificate of Excellence in Academic Performance (Inatel).*
 </details>
@@ -24,7 +24,7 @@
   <summary><img src="https://flagcdn.com/w20/br.png" width="20"> Português</summary>
   <br />
 
-  Sou **Engenheiro de Software** focado em **Automação de QA**. Com formação pelo **Inatel**, aplico princípios de engenharia ao ciclo de vida de testes, garantindo a entrega de software de alta qualidade através de **Cypress, Postman e integração CI/CD**. Possuo experiência prática em testes manuais, funcionais e de regressão para plataformas **Web e Mobile (iOS)**. 
+  Sou **Engenheiro de Software** focado em **Automação de QA**. Com formação pelo **Inatel**, aplico princípios de engenharia ao ciclo de vida de testes, garantindo a entrega de software de alta qualidade através de **Cypress, Postman, k6 e integração CI/CD**. Possuo experiência prática em testes manuais, funcionais e de regressão para plataformas **Web e Mobile (iOS)**. 
 
   🏅 *Agraciado com o Certificado de Excelência em Desempenho Acadêmico (Inatel).*
 </details>
