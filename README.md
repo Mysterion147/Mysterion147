@@ -6,7 +6,7 @@
 
 # Hi there, I'm Maciel 👋
 
-### 🚀 Software Development Engineer in Test (SDET) | QA Automation | Backend Developer
+### 🚀 Software Engineer | QA Automation | Backend Developer | SDET
 **Software Engineering Graduate**
 
 ### 📖 About me
